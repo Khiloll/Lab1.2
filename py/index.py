@@ -1,4 +1,3 @@
 print("hi")
-print("it's")
-print("calculator")
+print("it's calculator")
 while True: print(eval(input('>>>')))
